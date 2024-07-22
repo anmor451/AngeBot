@@ -1,1 +1,2 @@
-# AngeBot
+# AngelBot
+Bot Officiel des Anges
